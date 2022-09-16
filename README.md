@@ -1,4 +1,4 @@
-<img src= "https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="90%" align="center">
+<img src= "https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" height="400px" align="center">
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
