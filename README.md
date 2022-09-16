@@ -51,7 +51,7 @@
     <a href="https://www.linkedin.com/in/kapil-7982c99/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kapil-7982c99/" />
     </a>
-    <a href="https://github.com/Kapil7982">
+    <a href="https://kapil7982.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/Kapil7982" />
     </a>
     <a title="rathor798299@gmai.com" href="mailto:rathor798299@gmai.com">
