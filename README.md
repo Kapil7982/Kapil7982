@@ -78,6 +78,6 @@
  <!--------------------------------------------------------------------------------> 
    <h2><i>Recent GitHub Activity</i></h2>
   <br/>
-   <a href="https://github.com/Kapil7982"><img alt="Kapil Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kapil7982&custom_title=Kapil7982's %20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Kapil7982"><img alt="Kapil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kapil7982&custom_title=Kapil7982's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
