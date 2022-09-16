@@ -1,13 +1,13 @@
 <img src= "https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="100%" height="400px" align="center">
 
-<!----------------------------------- Heading Section ------------------------------------>
+<! Heading Section>
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Kapil
 </h1>
 
-<!----------------------------------- About Section ------------------------------------>
+<! About Section>
 
 <h3 align="center">
    <i>Java Banckend Developer</i>
@@ -16,7 +16,7 @@
 
 
 <br>
-<!----------------------------------- Tech Stack Section ------------------------------------>
+<! Tech Stack Section >
 
 ### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@
  
  
  
-<!----------------------------------- Social Media Links Section ------------------------------------>
+<! Social Media Links Section>
 
 <h2><i>Let's Connect</i></h2>
 
@@ -65,17 +65,17 @@
  
  
 
-<!----------------------------------- Star Section ------------------------------------>
+<! Star Section >
 
  <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil7982&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Kapil7982" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil7982&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Kapil7982" height="145" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil7982&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Kapil7982" height="145"/>
 </p>
 <br>
   
- <!--------------------------------------------------------------------------------> 
+ <!Statistics Section> 
    <h2><i>Recent GitHub Activity</i></h2>
   <br/>
    <a href="https://github.com/Kapil7982"><img alt="Kapil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kapil7982&custom_title=Kapil7982's%20Contribution%20Graph&theme=react-dark" /></a>
