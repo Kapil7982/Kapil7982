@@ -61,7 +61,7 @@
 
 <br>
 
- <!-----------------------------Trophy Section--------------------------->
+
     
     <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
