@@ -6,15 +6,15 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Kapil
 </h1>
-
-
-<!----------- About Section--------------------->
-
 <h3> <i> An aspiring Java Backend Developer is seeking an opportunity to
 work in an environment where I can prove my skills and utilize
 my knowledge and intelligence in the organization and my
 growth.
     </i> </h3>
+
+<!----------- About Section--------------------->
+
+
 
 
 
