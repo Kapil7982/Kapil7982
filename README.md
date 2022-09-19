@@ -10,11 +10,11 @@
 
 <!----------- About Section--------------------->
 
-*<h3> An aspiring Java Backend Developer is seeking an opportunity to
+<h3> <i> An aspiring Java Backend Developer is seeking an opportunity to
 work in an environment where I can prove my skills and utilize
 my knowledge and intelligence in the organization and my
 growth.
-</h3>*
+    </i> </h3>
 
 
 
