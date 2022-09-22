@@ -92,3 +92,9 @@ growth.
    <a href="https://github.com/Kapil7982"><img alt="Kapil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kapil7982&custom_title=Kapil7982's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+<!--------------------------------------Counters Section-------------------------------------------->
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+</h3>
