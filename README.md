@@ -98,3 +98,11 @@ growth.
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/Kapil7982/count.svg" />
 </h3>
+
+<!--------------------------------------------------------------------->
+<p align="center">
+    <a href="https://github.com/Kapil7982/github-readme-streak-stats">
+  <img alt="Kapil7982 streak" src="https://streak-stats.demolab.com/?user=Kapil7982&theme=neon-dark&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+  </a>
+  
+</p>
