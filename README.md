@@ -10,10 +10,10 @@
 
 <!----------- About Section--------------------->
 
-<h3 align="center"> <i> An aspiring Java Backend Developer is seeking an opportunity to
-work in an environment where I can prove my skills and utilize
-my knowledge and intelligence in the organization and my
-growth.
+<h3 align="center"> <i> Results-driven Full Stack Developer adept in Java, Spring Framework, MySQL,
+and related technologies. Skilled in Python, React, and NodeJS. Seeking to
+leverage expertise in building robust server-side applications to drive impactful
+results in a dynamic environment.
     </i> </h3>
 
 
